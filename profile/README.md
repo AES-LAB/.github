@@ -74,8 +74,6 @@
 
     [마크다운 문법정리 사이트](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
-- 강의자료에 있는 실습을 아직 수업을 듣지 않은 연구생이 보게될 경우 문제의 소지가 있으니 관련 부분 해결 필요
-
 ## wifi
 - name: AES_LAB
 - password: 123456qq
