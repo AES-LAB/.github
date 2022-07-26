@@ -12,7 +12,7 @@
 ---
 1. Fork 사용 안할 시 (나는 commit 실수 안할 자신 있다.)
    1. 바탕화면 혹은 AESLAB에 git 용 폴더 생성
-   2. 폴더 우클릭하여 Git ba 클릭 
+   2. 폴더 우클릭하여 Git bash 클릭 
    3. 이제 AESLAB을 사용해 보자
       1. 처음 AESLAB 사용 경우git clone 하여 AESLAB 데이터 다운 **(중요)clone 할 경우 git init 하지말자!**
             ````bash
