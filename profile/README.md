@@ -73,11 +73,3 @@
 - Readme 파일은 마크다운 언어로 일반 txt 파일과는 다르므로 문서 작성 시 해당 문법을 조금 공부할 필요가 있음
 
     [마크다운 문법정리 사이트](https://gist.github.com/ihoneymon/652be052a0727ad59601)
-
-## wifi
-- name: AES_LAB
-- password: 123456qq
-- 에러시 192.168.0.1 접속
-- 로그인이름: AESLAB
-- 로그인암호: 123456qq
-- 설정마법사 들어가서 다음  연타하면 해결
