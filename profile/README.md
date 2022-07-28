@@ -17,12 +17,12 @@
    3. 이제 AESLAB을 사용해 보자
       1. 처음 AESLAB 사용 경우git clone 하여 AESLAB 데이터 다운 **(중요)clone 할 경우 git init 하지말자!**
             ````bash
-            $git clone https://github.com/21-Arbiter/AESLAB.git
+            $git clone https://github.com/AES-LAB/AESLAB
             ````
       
       2. AESLAB clone이 다 완성 되고 그 다음 부터 사용할 경우는 commit 기록은 확인해보고 commit 된 경우가 있는 경우 
             ````bash
-            $git remote add origin https://github.com/21-Arbiter/AESLAB.git
+            $git remote add origin https://github.com/AES-LAB/AESLAB
             $git pull origin master
             ````
 
@@ -64,7 +64,7 @@
     3. 참 쉽다.
    * 만약 MASTER의 업데이트 된 내용을 너의 Fork 된 원격 저장소에 업데이트 하고 싶을 경우
     ````bash
-    $git remote add upstream https://github.com/21-Arbiter/AESLAB.git
+    $git remote add upstream https://github.com/AES-LAB/AESLAB
     $git pull upstream master
     $git push origin master
     #이러면 너의 원격 저장소에도 저장 될 것이다.
